@@ -1,0 +1,12 @@
+.left{background-color: blue; height: 100%; width: 20%;
+
+}
+.right{background-color: red; height: 100%; width: 80%;
+
+}
+.body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    padding: 0;
+}
